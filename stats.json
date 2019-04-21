@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-aa9570313651ef926b5a.js",
+      "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
+    ],
+    "path---2019-澎湖花火節-四天三夜遊": [
+      "path---2019-澎湖花火節-四天三夜遊-16f3d9a84bd80ee4703d.js",
+      "path---2019-澎湖花火節-四天三夜遊-16f3d9a84bd80ee4703d.js.map"
+    ],
+    "path---": [
+      "path----d87ea2d31350e0ed5f1b.js",
+      "path----d87ea2d31350e0ed5f1b.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-2c0abecc6970f6ea79cd.js",
+      "component---src-pages-contact-js-2c0abecc6970f6ea79cd.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e30a14459c8bd09c27de.js",
+      "component---src-layouts-index-js-e30a14459c8bd09c27de.js.map"
+    ],
+    "path---index": [
+      "path---index-206ac74de0d3aab26f03.js",
+      "path---index-206ac74de0d3aab26f03.js.map"
+    ],
+    "component---src-pages-search-js": [
+      "component---src-pages-search-js-475975c587a32b11566e.js",
+      "component---src-pages-search-js-475975c587a32b11566e.js.map"
+    ],
+    "commons": [
+      "commons-2f786684e610839bf172.js",
+      "build-js-styles.css",
+      "commons-2f786684e610839bf172.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---success": [
+      "path---success-7ad0b2c5de4fe631c450.js",
+      "path---success-7ad0b2c5de4fe631c450.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-ee182e2253cff02a8220.js",
+      "component---src-templates-post-template-js-ee182e2253cff02a8220.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-280e72cab06bbfe23d85.js",
+      "build-js-styles.css",
+      "app-280e72cab06bbfe23d85.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js",
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js.map"
+    ],
+    "path---search": [
+      "path---search-a0e39f21c11f6a62c5ab.js",
+      "path---search-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-e2f89513e7cfb7215c5c.js",
+      "path---about-e2f89513e7cfb7215c5c.js.map"
+    ]
+  }
+}
